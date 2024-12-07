@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "titulo": "El libro de las mil",
+    "autor": "Dan Brown",
+    "imagen": "/img/imagenes 1.svg",
+    "categoria": "Ficción y ciencia ficción"
+  },
+  {
+    "id": 2,
+    "titulo": "El libro de las mil",
+    "autor": "Dan Brown",
+    "imagen": "/img/descarga 1.svg",
+    "categoria": "Ficción y ciencia ficción"
+  },
+  {
+    "id": 3,
+    "titulo": "El libro de las mil",
+    "autor": "Dan Brown",
+    "imagen": "/img/viaje al centro de la Tierra.svg",
+    "categoria": "Ficción y ciencia ficción"
+  }
+]
+              
