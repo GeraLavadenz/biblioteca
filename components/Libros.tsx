@@ -1,6 +1,7 @@
 "use client"
 import React from 'react'
-import { useEffect } from 'react'
+import { useEffect } from 'react'   
+import './libros.css'
 
 
 type librostype = {
@@ -34,9 +35,9 @@ useEffect(() => {
   return (
     <div>
         <h1>Libros</h1>
-        <div>
+        <div >
             {libros.map((libro) => (
-                <div key={libro.id}>
+                <div key={libro.id} className="libros">
                     <h2>{libro.titulo}</h2>
                     <p>{libro.autor}</p>
                     <img src={libro.imagen} alt={libro.titulo} />
